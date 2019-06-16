@@ -8,8 +8,8 @@ Maintainer:     Kilian Kilger (kkilger@gmail.com)
 Build-Type:     Simple
 Cabal-Version:  >= 1.24
 Stability:      experimental
-homepage:       https://github.com/cohomology/gi-cairo-render
-bug-reports:    https://github.com/cohomology/gi-cairo-render/issues
+homepage:       https://github.com/taffybar/gi-cairo-render
+bug-reports:    https://github.com/taffybar/gi-cairo-render/issues
 Synopsis:       Clock demo for cairo-render
 Description:    Clock demo for cairo-render
 Category:       Graphics
@@ -17,7 +17,7 @@ Tested-With:    GHC == 8.2.2, GHC == 8.0.2
 
 Source-Repository head
   type:         git
-  location:     https://github.com/cohomology/gi-cairo-render
+  location:     https://github.com/taffybar/gi-cairo-render
   subdir:       examples/clock
 
 Executable cairo-clock-demo
